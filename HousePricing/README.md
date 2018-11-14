@@ -4,6 +4,8 @@
 ## Installations Required
 *	Miniconda – x64 version for Windows - https://conda.io/miniconda.html
 *	Visual Studio Code on Windows (IDE) - https://code.visualstudio.com/docs/setup/windows
+* Jupyter - http://jupyter.org/ - *Refer setup for installtion instructions*
+* Packages - NumPy, Pandas, Matplotlib, Seaborn - *Refer setup for installation instructions*
 
 
 ## Setup:
